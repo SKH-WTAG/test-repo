@@ -1,5 +1,6 @@
 {
   "name": "Hello",
   "cat": "Katze",
-  "orange": "orangefarben"
+  "orange": "orangefarben",
+  "error_msg": "Es ist ein Fehler aufgetreten!"
 }
