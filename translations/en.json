@@ -3,5 +3,8 @@
   "cat": "Cat",
   "orange": "Orange",
   "error_msg": "Something went wrong!",
-  "welcome": "Hello World"
+  "welcome": "Hello World",
+  "about": {
+    "title": "About Page"
+  }
 }
