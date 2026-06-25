@@ -1,4 +1,7 @@
 {
   "name": "Hello",
-  "cat": "Cat"
+  "cat": "Cat",
+  "orange": "Orange",
+  "error_msg": "Something went wrong!",
+  "welcome": "Hello World"
 }
