@@ -5,6 +5,7 @@
   "error_msg": "Something went wrong!",
   "welcome": "Hello World",
   "about": {
-    "title": "About Page"
-  }
+    "title": "another title"
+  },
+  "new_text": "Sample Text"
 }
