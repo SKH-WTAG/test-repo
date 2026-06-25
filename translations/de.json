@@ -3,5 +3,8 @@
   "cat": "Katze",
   "orange": "orangefarben",
   "error_msg": "Es ist ein Fehler aufgetreten!",
-  "welcome": "Hallo Welt"
+  "welcome": "Hallo Welt",
+  "about": {
+    "title": "Über diese Seite"
+  }
 }
