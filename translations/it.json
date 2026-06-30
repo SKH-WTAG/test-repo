@@ -1,0 +1,11 @@
+{
+  "name": "Nuovo nome",
+  "cat": "Cat",
+  "orange": "Arancione",
+  "error_msg": "Si è verificato un errore!",
+  "welcome": "Hello World",
+  "about": {
+    "title": "un altro titolo"
+  },
+  "new_text": "Testo di esempio"
+}

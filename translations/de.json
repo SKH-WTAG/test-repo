@@ -1,7 +1,11 @@
 {
-  "name": "Hello",
+  "name": "Neuer Name",
   "cat": "Katze",
   "orange": "orangefarben",
   "error_msg": "Es ist ein Fehler aufgetreten!",
-  "welcome": "Hallo Welt"
+  "welcome": "Hallo Welt",
+  "about": {
+    "title": "ein anderer Titel"
+  },
+  "new_text": "sss"
 }

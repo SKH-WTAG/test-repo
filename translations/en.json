@@ -1,10 +1,11 @@
 {
-  "name": "Hello",
+  "name": "New name",
   "cat": "Cat",
   "orange": "Orange",
   "error_msg": "Something went wrong!",
   "welcome": "Hello World",
   "about": {
-    "title": "About Page"
-  }
+    "title": "another title"
+  },
+  "new_text": "Sample Text"
 }
